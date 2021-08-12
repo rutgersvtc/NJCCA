@@ -1,3 +1,1 @@
-
-
-aaa
+Borrowing Portland's 15-min neighborhood plan, we combined a series of indicators to create a heat map of 15-minute accessibility (approximately ¾’s of a mile in walking distance) relative to low-income census block groups. To determine areas that had best, moderate and limited accessibility, we looked for places with better connectivity through intersection density, better access to frequent transit service, coverage area for public schools, proximity to recreation facilities, medical services, commercial amenities and essential services. 
